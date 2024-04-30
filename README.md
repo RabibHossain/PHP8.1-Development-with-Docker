@@ -15,7 +15,7 @@ cd docker-php
 Inside docker-php, create the following subdirectories and files:
 
 ```
-your-project/
+docker-php/
 ├── .docker/
 │   ├── nginx/
 │   │   └── default.conf
