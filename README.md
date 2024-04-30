@@ -23,7 +23,7 @@ docker-php/
 │       ├── dockerfile
 │       └── php.ini
 ├── docker-compose.yml
-└── public
+└── public/
     └── index.php
 
 ```
