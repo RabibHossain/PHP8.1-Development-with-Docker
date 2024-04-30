@@ -1,4 +1,9 @@
-**Why Docker?** Docker, a powerful tool for creating, deploying, and running applications by using containers, offers a solution. This blog post will meticulously guide you through creating a Docker image with PHP 7.4, enabling you to leverage the benefits of containerization for your PHP projects.
+**Why Docker?** Docker, a powerful tool for creating, deploying, and running applications by using containers, offers a solution. There are numerous methods to create a PHP development environment, opting packages like XAMPP, WampServer or even install PHP, MySQL, and web server software manually. Using Docker with PHP offers numerous benefits, especially in terms of development efficiency, environment consistency, scalability, enhancing security, development workflow, configure management, tooling support etc. This blog post will meticulously guide you through creating a Docker image with PHP 7.4, enabling you to leverage the benefits of containerization for your PHP projects.
+
+Make sure Docker installed & active on your machine
+```
+sudo systemctl status docker
+```
 
 ## Organize Project Structure
 
