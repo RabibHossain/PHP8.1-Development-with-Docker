@@ -213,3 +213,5 @@ Navigate to the root of your project where docker-compose.yml is located and run
 ```
 docker-compose up -d
 ```
+Now, reloading http://127.0.0.1:8082/ in your browser should display the PHP info page, indicating that your PHP environment is correctly set up and running.
+Now we have a fully functional Docker environment for running PHP 7.4 applications using Nginx and PHP-FPM. This setup is suitable for development and can be extended for production too.
